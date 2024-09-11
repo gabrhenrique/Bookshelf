@@ -35,7 +35,7 @@ p {
    background-color: #000;
    color: #fff;
    border: none;
-   padding: .9rem 1.5rem;
+   padding: 1rem 1.5rem;
    border-radius: 100px;
    cursor: pointer;
    transition: .3s;
@@ -56,27 +56,27 @@ img {
     margin: 1rem;
 }
 
-.section02 button {
+.genres button {
     background-color: #44ABF6;
     color: #fff;
     border: none;
-    padding: .9rem 1.5rem;
+    padding: 1rem 1.5rem;
     border-radius: 100px;
     cursor: pointer;
     transition: .3s;
 }
 
-.section02 button:hover {
+.genres button:hover {
     background-color: hsl(205, 91%, 40%);
 }
 
-.section02 .ver-mais {
+.genres .see-more {
     background-color: #000;
     color: #fff;
     transition: .3s;
 }
 
-.section02 .ver-mais:hover {
+.genres .see-more:hover {
     background-color: hsl(0, 0%, 20%);
 }
 
