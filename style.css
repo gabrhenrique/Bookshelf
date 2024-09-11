@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Forum&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+}
+
+header h1 {
+    font-size: 3rem;
+}
+
+h1, h2 {
+    font-family: "Forum", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header h1, p {
+    margin: 2rem 0;
+}
+
+.section01 h2,p {
+    margin: 2rem 0;
+}
+
+.section01 button {
+   background-color: #000;
+   color: #fff;
+   border: none;
+   padding: .9rem 1.5rem;
+   border-radius: 100px;
+   cursor: pointer;
+}
+
+img {
+    width: 50%;
+    margin: 3rem auto;
+}
+
+.section02 h2,p {
+    margin: 2rem 0;
+}
+
+.section02 ul li {
+    display: inline-block;
+    margin: 0 .5rem;
+    margin: 1rem;
+}
+
+.section02 button {
+    background-color: #44ABF6;
+    color: #fff;
+    border: none;
+    padding: .9rem 1.5rem;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.section02 .ver-mais {
+    background-color: #000;
+    color: #fff;
+}
+
+.section03 h2, p {
+    margin: 2rem 0;
+}
+
+.section03 button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    padding: .9rem 1.5rem;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    padding: 1rem;
+    margin-top: 2rem;
+}
